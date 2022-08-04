@@ -5,11 +5,11 @@ A Front-end Web Developer
 -------------------------------
 I am proficient in interpreting designs and building functional, responsive and user-friendly websites. I am familiar with HTML, CSS, Bootstrap, Javascript, and React. Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience.
 
- * 🌍  I'm based in Berlin, Germany 
- * 🤝  I'm open to collaborating on Interesting 
- * ✉️  You can contact me at [fenilaphilip@gmail.com](mailto:fenilaphilip@gmail.com)
- * 🚀  Check out my latest project that I built [Weather Forecast](https://weather.fenilas.com/)
- * ⚡  
+ * 🌍  I'm based in Berlin, Germany.
+ * 🚀  Check out my latest project that I built [Weather Forecast](https://weather.fenilas.com/).
+ * ✉️  You can contact me at [fenilaphilip@gmail.com](mailto:fenilaphilip@gmail.com).
+ * ⚡  Connect with me In [Linkedin](https://www.linkedin.com/in/fenila-philip/).
+ * 🤝  I'm open to collaborating on Interesting projects.
 
 
 ### Skills
