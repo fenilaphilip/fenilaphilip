@@ -1,4 +1,4 @@
-Hi 👋 I am Fenila Philip
+Hi 👋 I am Fenila Sosa Philip
 ====================================================================================================================================
 
 A Front-end Web Developer
@@ -22,7 +22,11 @@ I am proficient in interpreting designs and building functional, responsive and 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
+### Certificates
 
+<p align="left">
+<a href="https://www.shecodes.io/certificates/92d22b4600c5232ea4c634da36b14bf5" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Introduction to Coding" /></a> <br />
+</p>
 
 
 
