@@ -26,7 +26,7 @@ I am proficient in interpreting designs and building functional, responsive and 
 
 <p align="left">
 <a href="https://www.shecodes.io/certificates/92d22b4600c5232ea4c634da36b14bf5" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Introduction to Coding" /></a> <br />
-<a href="https://www.shecodes.io/certificates/e9286cfa16725d921a4ceb1fef4ba58c" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Front End Developement" /></a> 
+<a href="https://www.shecodes.io/certificates/e9286cfa16725d921a4ceb1fef4ba58c" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Web Developement" /></a> 
 </p>
 
 
