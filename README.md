@@ -9,26 +9,53 @@ I am proficient in interpreting designs and building functional, responsive and 
  * 🚀  Check out my latest project that I built [Weather Forecast](https://weather.fenilas.com/).
  * ✉️  You can contact me at [fenilaphilip@gmail.com](mailto:fenilaphilip@gmail.com).
  * ⚡  Connect with me In [Linkedin](https://www.linkedin.com/in/fenila-philip/).
+ * 🌱 I’m currently learning Next.js
  * 🤝  I'm open to collaborating on Interesting projects.
 
 
-### Skills
+### I'm familiar with
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="HTML5" /></a> <br />
-<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="CSS" /></a> <br />
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="JavaScript" /></a> <br />
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="React" /></a> <br />
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Bootstrap" /></a>
-</p>
 
-### Certificates
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-<p align="left">
-  <a href="https://www.shecodes.io/certificates/bcdaa5dfed58eac565138f7c7bc7e112" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Advanced React Developement" /></a> <br />
-  <a href="https://www.shecodes.io/certificates/e9286cfa16725d921a4ceb1fef4ba58c" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Web Developement" /></a> <br />
-  <a href="https://www.shecodes.io/certificates/92d22b4600c5232ea4c634da36b14bf5" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Introduction to Coding" /></a> <br />
-</p>
+
+
 
 
 
