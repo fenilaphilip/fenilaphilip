@@ -1,87 +1,30 @@
-Hi 👋 I am Fenila Sosa Philip
-====================================================================================================================================
+ <h1 align="center"> Hi 👋, I am Fenila Sosa Philip </h1>
+ <h3 align="center" >A passionate Frontend Developer</h3>
 
-A Front-end Web Developer
--------------------------------
-I am proficient in interpreting designs and building functional, responsive and user-friendly websites.Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience.
+<!--![GitHub User's stars](https://img.shields.io/github/stars/fenilaphilip?label=%E2%AD%90GitHub%20stars&style=flat-square) -->
+![](https://komarev.com/ghpvc/?username=fenilaphilip&style=flat-square&color=ff69b4)
 
  * 🌍  I'm based in Berlin, Germany.
- * 🚀  Check out my latest project that I built [Weather Forecast](https://weather.fenilas.com/).
+ * 🚀  Check out my latest project that I built [Todos](https://deploy-preview-2--stellular-manatee-0253a4.netlify.app/).
  * ✉️  You can contact me at [fenilaphilip@gmail.com](mailto:fenilaphilip@gmail.com).
  * ⚡  Connect with me In [Linkedin](https://www.linkedin.com/in/fenila-philip/).
- * 🌱  I’m currently reading Eloquent Javascript.
- * 🤝  I'm open to collaborating on Interesting projects.
+ * 🤝  I'm open to collaborating on Interesting projects
 
+# 💫 About Me:
+<p>I am passionate self-taught Frontend developer, proficient in interpreting designs and building functional, responsive and user-friendly websites. Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience.</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fenilaphilip&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
+  <img src="https://github-readme-stats.vercel.app/api?username=fenilaphilip&show_icons=true&theme=radical&layout=compact" alt="fenila's Github Stats" height=160 />
+<p>
 
-### I'm familiar with
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  
-  
-</div>
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,css,react,redux,bootstrap,materialui,tailwind,nextjs,jquery,git,npm,nodejs,express,vscode,jest,cypress,babel,github,postgres,mongodb,mysql,postman,vite,figma,sass,vim,&theme=dark)](https://skillicons.dev)
 
 
 
 
 
 
-<!--
-**fenilaphilip/fenilaphilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
