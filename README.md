@@ -13,8 +13,8 @@
 # 💫 About Me:
 <p>I am passionate self-taught Frontend developer, proficient in interpreting designs and building functional, responsive and user-friendly websites. Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience.</p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fenilaphilip&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
-  <img src="https://github-readme-stats.vercel.app/api?username=fenilaphilip&show_icons=true&theme=radical&layout=compact" alt="fenila's Github Stats" height=160 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fenilaphilip&show_icons=true&locale=en&layout=compact&theme=default" alt="most used languages" height=160 />
+  <img src="https://github-readme-stats.vercel.app/api?username=fenilaphilip&show_icons=true&theme=default&layout=compact" alt="fenila's Github Stats" height=160 />
 <p>
 
 # 💻 Tech Stack:
