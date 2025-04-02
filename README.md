@@ -11,14 +11,19 @@
  * 🤝  I'm open to collaborating on Interesting projects
 
 # 💫 About Me:
-<p>I am passionate self-taught Frontend developer, proficient in interpreting designs and building functional, responsive and user-friendly websites. <!-- Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience. --> </p>
+<p>I am self-taught Frontend developer with a deep passion for creating seamless user experiences and innovative web solutions, focused on building scalable, efficient projects that make an impact in solving real-world problems. 
+ <!--  proficient in interpreting designs and building functional, responsive and user-friendly websites.Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience. --> </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fenilaphilip&show_icons=true&locale=en&layout=compact&theme=default" alt="most used languages" height=160 />
   <img src="https://github-readme-stats.vercel.app/api?username=fenilaphilip&show_icons=true&theme=default&layout=compact" alt="fenila's Github Stats" height=160 />
+ <!--
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fenilaphilip&bg_color=white&color=58a6ff&line=9e4c98&area=true" alt="Fenila's GitHub activity graph" width="100%" height="400px" />
+ -->
 <p>
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,css,react,redux,bootstrap,materialui,tailwind,nextjs,jquery,git,npm,nodejs,express,vscode,jest,cypress,babel,github,postgres,mongodb,mysql,postman,vite,figma,sass,vim,&theme=dark)](https://skillicons.dev)
+
 
 
 
