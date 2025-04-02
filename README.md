@@ -11,7 +11,7 @@
  * 🤝  I'm open to collaborating on Interesting projects
 
 # 💫 About Me:
-<p>I am self-taught Frontend developer with a deep passion for creating seamless user experiences and innovative web solutions. I am focused on building scalable, efficient projects that make an impact in solving real-world problems. 
+<p>I am a self-taught Frontend developer with a deep passion for creating seamless user experiences and innovative web solutions. I am focused on building scalable, efficient projects that make an impact in solving real-world problems. 
  <!--  proficient in interpreting designs and building functional, responsive and user-friendly websites.Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience. --> </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fenilaphilip&show_icons=true&locale=en&layout=compact&theme=default" alt="most used languages" height=160 />
